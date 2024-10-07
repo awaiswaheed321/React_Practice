@@ -1,7 +1,8 @@
 import "./App.css";
+import ColorPicker from "./ColorPicker.jsx";
 
 function App() {
-  return <></>;
+  return <><ColorPicker></ColorPicker></>;
 }
 
 export default App;
